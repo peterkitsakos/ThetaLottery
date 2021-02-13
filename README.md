@@ -1,1 +1,1 @@
-# ThetaWallet
+# Theta Wallet
