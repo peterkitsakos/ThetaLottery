@@ -1,0 +1,6 @@
+module Pods_theta_wallet_theta_walletTests {
+  umbrella header "Pods-theta_wallet-theta_walletTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
